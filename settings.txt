@@ -1,0 +1,5 @@
+#Change only if you know what you're doing!!!
+#User-Agent:
+DeadByDaylight/++DeadByDaylight+Live-CL-397052 Windows/10.0.19042.1.768.64bit
+#Catalog:
+4.5.0_400095live
